@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobchrismansayh)](https://github.com/bobchrismansayah/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobchrismansayah)](https://github.com/bobchrismansayah/github-readme-stats)
 
 
 <!--
