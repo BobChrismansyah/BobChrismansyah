@@ -1,11 +1,27 @@
-### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px"> Welcome to my Github
-🔗 &nbsp;**Connect with me**
-<p align="left">
+<div align="center">
+<b>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px"> Welcome to my Github
+</div>
+   <br>
+   <br>
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+<br>
+<br>
+
+<div align="center"
+<p>🔗 &nbsp;<b>Connect with me</p>
+<p align="center">
+<a href="https://www.instagram.com/bob.chrismansyah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://twitter.com/BobChrismansyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bob-chrismansyah-380172213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/bob.chrismansyah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-   
+</div>
+<br>
 
+<table><tr><td valign="top" width="63%">
    
    
 <p align="center">
@@ -15,14 +31,8 @@
   <br>
   <br>
 </p>
+  
 
-<!-- <p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=ytdx">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=pixel-weather">
-</p> -->
-   
-   
-   
 # All Repo [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
 
 <br>
