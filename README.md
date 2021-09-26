@@ -2,12 +2,15 @@
 <b>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px"> Welcome to my Github
 </div>
    <br>
+<div align="center">
+<b><img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=790b76114ca65d92e96d7d1e3c81aa3e523d6f9bb473f5c1&rid=giphy.gif&ct=g"  width="500px"
+</div>
+   
+*************
    <br>
-
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+</div>
 
 <br>
 <br>
@@ -22,8 +25,7 @@
 <br>
 
 <table><tr><td valign="top" width="63%">
-   
-   
+  
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=BobChrismansyah&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=BobChrismansyah&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
