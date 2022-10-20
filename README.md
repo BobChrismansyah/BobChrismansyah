@@ -37,19 +37,6 @@
   <br>
   <br>
 </p>
-   
-   
-
-
-# All Repo [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
-
-<br>
-<br>
-
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
-
-
-
       
 <!--
 **BobChrismansyah/BobChrismansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
