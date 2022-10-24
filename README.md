@@ -2,119 +2,6 @@
 <b>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px"> Welcome to my Github
 </div>
 
-<style>
-    @import url(https://fonts.googleapis.com/css?family=Concert+One);
-
-    h1 {
-        animation: glow 10s ease-in-out infinite;
-
-    }
-
-    * {
-        box-sizing: border-box;
-    }
-
-    body {
-        background: #0a0a0a;
-        overflow: hidden;
-        text-align: center;
-    }
-
-    figure {
-        animation: wobble 5s ease-in-out infinite;
-        transform-origin: center center;
-        transform-style: preserve-3d;
-    }
-
-    @keyframes wobble {
-
-        0%,
-        100% {
-            transform: rotate3d(1, 1, 0, 50deg);
-        }
-
-        25% {
-            transform: rotate3d(-1, 1, 0, 20deg);
-        }
-
-        50% {
-            transform: rotate3d(-1, -1, 0, 20deg);
-        }
-
-        75% {
-            transform: rotate3d(1, -1, 0, 20deg);
-        }
-    }
-
-    h1 {
-        display: block;
-        width: 100%;
-        line-height: 1.5;
-        font: 900 8em 'Concert One', sans-serif;
-        text-transform: uppercase;
-        position: absolute;
-        color: #0a0a0a;
-    }
-
-    @keyframes glow {
-
-        0%,
-        100% {
-            text-shadow: 0 0 30px rgb(149,96,232);
-        }
-
-        25% {
-            text-shadow: 0 0 30px rgb(95,102,210);
-        }
-
-        50% {
-            text-shadow: 0 0 30px rgb(53,69,73);
-        }
-
-        75% {
-            text-shadow: 0 0 30px rgb(244,245,255);
-        }
-    }
-
-    h1:nth-child(2) {
-        transform: translateZ(5px);
-    }
-
-    h1:nth-child(3) {
-        transform: translateZ(10px);
-    }
-
-    h1:nth-child(4) {
-        transform: translateZ(15px);
-    }
-
-    h1:nth-child(5) {
-        transform: translateZ(20px);
-    }
-
-    h1:nth-child(6) {
-        transform: translateZ(25px);
-    }
-
-    h1:nth-child(7) {
-        transform: translateZ(30px);
-    }
-</style>
-
-<body>
-<figure>
-        <h1>Bob Chrismansyah</h1>
-        
-        <h1>Hello World !</h1>
-        <h1>Saya suka berkontribusi di Project Open Source</h1>
-        <h1>UH</h1>
-        <h1>Sisfo20</h1>        
-        <h1>Windows & Arch</h1>
-        <h1>Midnight</h1>
-</body>
-
-
-
    <br>
 <div align="center">
 <b><img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=790b76114ca65d92e96d7d1e3c81aa3e523d6f9bb473f5c1&rid=giphy.gif&ct=g"  width="500px"
@@ -122,9 +9,9 @@
    
 *************
    <br>
-<!-- <div align="center">
+<div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div> -->
+</div>
 
 <br>
 <br>
@@ -140,7 +27,6 @@
 <br>
 
 
-  
 <!-- 
 <p align="center">
    
