@@ -1,4 +1,5 @@
 <div align="center">
+ [Contac Me]([linkurl](https://ppgtbukittamalanrea.my.id/bob/index.html))
 <b>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px"> Welcome to my Github
 </div>
 
