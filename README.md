@@ -1,5 +1,5 @@
 <div align="center">
- <a href="[about.html](https://ppgtbukittamalanrea.my.id/bob/index.html)">Contac Me<a>
+ <a href="https://ppgtbukittamalanrea.my.id/bob/index.html">Contac Me<a>
  <br>
 <b>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px"> Welcome to my Github
 </div>
